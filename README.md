@@ -1,3 +1,4 @@
 # Kodluyoruz-Front-End-Odev3
 patika.dev
-![image](https://user-images.githubusercontent.com/71225955/176140388-826adde5-fdcf-456b-9201-a1a083d10ebe.png)
+![image](https://user-images.githubusercontent.com/71225955/176140509-2c1ba4ed-16ca-4211-a92e-6c3dfd825818.png)
+
